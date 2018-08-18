@@ -11,9 +11,6 @@
       location = "group:/Users/yos/Dropbox/Now/MusicAppTransition/MusicAppTransition.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:MusicAppTransition.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
 </Workspace>
