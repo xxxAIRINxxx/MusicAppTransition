@@ -366,7 +366,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B26ABC347AE4FE2B0F0564CC /* Pods-MusicAppTransition.debug.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEVELOPMENT_TEAM = P599PJHMNF;
@@ -384,7 +384,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = DF1E9C309FAFFF585BA980DE /* Pods-MusicAppTransition.release.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = "$(inherited)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEVELOPMENT_TEAM = P599PJHMNF;
