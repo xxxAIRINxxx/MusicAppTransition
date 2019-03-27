@@ -1,8 +1,8 @@
 # MusicAppTransition
 
-[![Swift 4.2](https://img.shields.io/badge/Swift-4.2-orange.svg?style=flat)](https://developer.apple.com/swift/)
+[![Swift 5.0](https://img.shields.io/badge/Swift-5.0-orange.svg?style=flat)](https://developer.apple.com/swift/)
 [![Platforms iOS](https://img.shields.io/badge/Platforms-iOS-lightgray.svg?style=flat)](https://developer.apple.com/swift/)
-[![Xcode 10+](https://img.shields.io/badge/Xcode-10-blue.svg?style=flat)](https://developer.apple.com/swift/)
+[![Xcode 10.2+](https://img.shields.io/badge/Xcode-10.2+-blue.svg?style=flat)](https://developer.apple.com/swift/)
 
 ![capture](capture.gif "capture")
 
@@ -23,9 +23,9 @@ This sample have created as a showcase of Movin.
 ## Requirements
 
 * iOS 10.0+
-* Swift 4.2+
-* Xcode 10+
-* CocoaPods 1.5.3+
+* Swift 5.0+
+* Xcode 10.2+
+* CocoaPods 1.6.1+
 
 ## License
 
