@@ -1,5 +1,5 @@
 PODS:
-  - Movin (1.1.0)
+  - Movin (1.2.0)
 
 DEPENDENCIES:
   - Movin
@@ -9,8 +9,8 @@ SPEC REPOS:
     - Movin
 
 SPEC CHECKSUMS:
-  Movin: d90a88cdca0c01c1717133cb4f99303e6b765b1d
+  Movin: 02a488d93913e46de77774d6a2cc2fa0eec83760
 
 PODFILE CHECKSUM: 01ab440746fffcd160802a18e9a7495e616d01e8
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.6.1
